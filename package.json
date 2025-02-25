@@ -3,6 +3,7 @@
   "private": true,
   "version": "0.0.1",
   "type": "module",
+  "homepage": "https://alison2012win.github.io/MagicFridge/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
